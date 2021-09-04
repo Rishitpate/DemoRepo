@@ -20,4 +20,7 @@ public class AppTest {
 		Assert.assertEquals(1, myapp.userLogin("abc", "abc@123"));
 	}
 
+	public void testing() {
+		System.out.println("testing");
+	}
 }
